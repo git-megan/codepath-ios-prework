@@ -48,7 +48,7 @@ This app is created for people who want to improve their drawing skills by worki
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project challenged me because I had not created an iOS app before and was new to coding in Swift. It was great to read more about Swift and practice in the Playgrounds app, so I could learn the syntax. While this mostly went smoothly, I got stuck on a couple parts related to navigating XCode: (1) figuring out how to edit the look of the UI, and (2) figuring out how to connect the UI to the view controller. Watching a couple youtube videos helped me better naviage XCode and learn how different parts of the editor work for modifying UI and what is supposed to happen when dragging and dropping UI selections into the ViewController.
 
 ## License
 
