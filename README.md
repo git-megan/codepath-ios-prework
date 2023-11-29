@@ -1,12 +1,11 @@
 # Prework - *The Color Changing App*
-Prework for iOS development workshop by Codepath
+Prework for iOS development workshop by Codepath: I learned a bit about Swift as a language, and then created my first iOS app where I learned how to create UI and connect the UI to code that allows the app to function.
 
 Submitted by: **Megan Brown**
 
 **The Color Changing App** is an app that changes its background color when a user clicks the 'Change Color' button.
 
 Time spent: **5** hours spent in total
-I learned a bit about Swift as a language, and then created my first iOS app where I learned how to create UI and connect the UI to code that allows the app to function.
 
 ## Required Features
 
@@ -54,7 +53,7 @@ This app is created for people who want to improve their drawing skills by worki
 
 ## Notes
 
-This project challenged me because I had not created an iOS app before and was new to coding in Swift. It was great to read more about Swift and practice in the Playgrounds app, so I could learn the syntax. While this mostly went smoothly, I got stuck on a couple parts related to navigating XCode: (1) figuring out how to edit the look of the UI, and (2) figuring out how to connect the UI to the view controller. Watching a couple youtube videos helped me better naviage XCode and learn how different parts of the editor work for modifying UI and what is supposed to happen when dragging and dropping UI selections into the ViewController.
+This project challenged me because I had not created an iOS app before and was new to coding in Swift. It was great to read more about Swift and practice in the Playgrounds app, so I could learn the syntax. While this mostly went smoothly, I got stuck on a couple parts related to navigating Xcode: (1) figuring out how to edit the look of the UI, and (2) figuring out how to connect the UI to the view controller. Watching a couple Youtube videos helped me better naviage Xcode and learn how different parts of the editor work for modifying UI and what is supposed to happen when dragging and dropping UI selections into the ViewController.
 
 ## License
 
