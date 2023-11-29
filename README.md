@@ -17,9 +17,15 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Watch the loom video below to see a demo of the app.
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/6575e4f02f074c558020b05bd42a5532">
+    </a>
+    <a href="https://www.loom.com/share/6575e4f02f074c558020b05bd42a5532">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6575e4f02f074c558020b05bd42a5532-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 Below are some ideas of iOS apps I could make and features I could work on to further my learning of iOS development.
