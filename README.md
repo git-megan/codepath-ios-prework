@@ -34,7 +34,7 @@ This app would allow singers to more easily practice their warm-ups and songs th
 * Vocal Warm-up: Play a recording of musical scales, so the singer can sing along to warm up their voice.
 * Notes: Write down your notes on what to focus on this week, and write down the lyrics to songs you are working on.
 * Record Yourself: Record yourself singing, so you can listen back to the recording and make notes on which areas to focus on for improvement.
-* Train Your Ear: Listen to a pre-recorded chord or sequence of notes, and be quizzed on what musical pattern you are hearing (e.g. Listen to two notes - Is this a Major 7th?). The quiz will be multiple choice and will share the correct answer once the user selects their guess.
+* Train Your Ear: Listen to a pre-recorded chord or sequence of notes for the purpose of training your ear to hear what interval it is. Get quizzed on what musical pattern (the interval) that you are hearing (e.g. Listen to two notes - Is this a Major 7th? An octave? A minor 2nd?). The quiz will be multiple choice and it will share the correct answer once the user selects their choice.
 
 ### Yoga Routine App
 This app would allow yogis to more easily plan their next yoga routine. Features could include:
